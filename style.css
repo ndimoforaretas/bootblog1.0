@@ -1,0 +1,18 @@
+.brand-gradient {
+  background: rgb(109, 22, 167); /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    194deg,
+    rgba(109, 22, 167, 1) 0%,
+    rgba(29, 86, 253, 1) 51%,
+    rgba(252, 69, 217, 1) 100%
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    194deg,
+    rgba(109, 22, 167, 1) 0%,
+    rgba(29, 86, 253, 1) 51%,
+    rgba(252, 69, 217, 1) 100%
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
