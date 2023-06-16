@@ -16,3 +16,13 @@
   background-clip: text;
   color: transparent;
 }
+
+.banner-holder {
+  background-image: url(/assets/images/heroImg.png);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.custom-nav {
+  backdrop-filter: blur(15px);
+}
